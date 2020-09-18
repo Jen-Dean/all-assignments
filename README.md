@@ -1,6 +1,4 @@
-# bootcamp-assignments
-
-## Rutgers Bootcamp Class Assignments
+# Rutgers Bootcamp Class Assignments
 
 
 ### 01 Excel Homework
