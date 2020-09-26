@@ -15,4 +15,20 @@
 
 ### 03 Python Homework
 ---------------
-Coming soon!
+
+##### 01 PyBank
+- [Python Code](https://github.com/Jen-Dean/all-assignments/blob/master/3%20-%20Python/PyBank/main.py)
+- [Results](https://github.com/Jen-Dean/all-assignments/blob/master/3%20-%20Python/PyBank/Analysis/Analysis.txt)
+
+##### 02 PyPoll
+
+- [Python Code](https://github.com/Jen-Dean/all-assignments/blob/master/3%20-%20Python/PyPoll/main.py)
+- [Results](https://github.com/Jen-Dean/all-assignments/blob/master/3%20-%20Python/PyPoll/Analysis/Analysis.txt)
+
+##### 03 PyBoss
+- [Python Code](https://github.com/Jen-Dean/all-assignments/blob/master/3%20-%20Python/PyBoss/main.py)
+- [Results](https://github.com/Jen-Dean/all-assignments/blob/master/3%20-%20Python/PyBoss/Output/new_employee_data.csv)
+
+##### 04 PyParagraph
+
+- [Python Code](https://github.com/Jen-Dean/all-assignments/blob/master/3%20-%20Python/PyParagraph/main.py)
