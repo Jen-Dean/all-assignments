@@ -34,11 +34,15 @@
 ### 04 Pandas Homework
 ---------------
 ##### 01 Heroes of Pymoli
-- [Python Code](
-- 
+
+- [Python Code](https://github.com/Jen-Dean/all-assignments/blob/master/4%20-%20Pandas/HeroesOfPymoli/HeroesOfPymoli_FINISHED.ipynb)
 
 ##### 02 PyCity Schools
+ - [Python Code - WIP](https://github.com/Jen-Dean/all-assignments/blob/master/4%20-%20Pandas/PyCitySchools/WIP_PyCitySchools_starter.ipynb)
 
+### 05 Matplotlib Homework
+---------------
+Coming Soon!
 
 
 
