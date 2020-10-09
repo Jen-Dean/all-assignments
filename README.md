@@ -33,4 +33,14 @@
 
 ### 04 Pandas Homework
 ---------------
-Coming Soon!
+##### 01 Heroes of Pymoli
+- [Python Code](
+- 
+
+##### 02 PyCity Schools
+
+
+
+
+
+
