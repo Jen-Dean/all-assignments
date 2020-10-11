@@ -42,9 +42,9 @@
 
 ### 05 Matplotlib Homework
 ---------------
- - [Read Me](
- - [Python Code](https://github.com/Jen-Dean/all-assignments/blob/master/4%20-%20Pandas/PyCitySchools/WIP_PyCitySchools_starter.ipynb)
- - [Date & Results]
+ - [Read Me](https://github.com/Jen-Dean/all-assignments/blob/master/5%20-%20Matplotlib/README.md)
+ - [Python Code](https://github.com/Jen-Dean/all-assignments/blob/master/5%20-%20Matplotlib/pymaceuticals_FINISHED.ipynb)
+ - [Visual Charts](https://github.com/Jen-Dean/all-assignments/tree/master/5%20-%20Matplotlib/charts)
 
 
 
