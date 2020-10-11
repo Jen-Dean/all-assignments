@@ -42,7 +42,9 @@
 
 ### 05 Matplotlib Homework
 ---------------
-Coming Soon!
+ - [Read Me](
+ - [Python Code](https://github.com/Jen-Dean/all-assignments/blob/master/4%20-%20Pandas/PyCitySchools/WIP_PyCitySchools_starter.ipynb)
+ - [Date & Results]
 
 
 
