@@ -45,8 +45,14 @@
  - [Read Me](https://github.com/Jen-Dean/all-assignments/blob/master/5%20-%20Matplotlib/README.md)
  - [Python Code](https://github.com/Jen-Dean/all-assignments/blob/master/5%20-%20Matplotlib/pymaceuticals_FINISHED.ipynb)
  - [Visual Charts](https://github.com/Jen-Dean/all-assignments/tree/master/5%20-%20Matplotlib/charts)
+ 
+### 06 Python API Homework
+---------------
+coming soon!
 
-
+### 07 Project 1 Homework
+---------------
+coming soon!
 
 
 
