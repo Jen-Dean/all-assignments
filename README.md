@@ -48,7 +48,18 @@
  
 ### 06 Python API Homework
 ---------------
-coming soon!
+
+- [Read Me](https://github.com/Jen-Dean/all-assignments/blob/master/6%20-%20APIs/README.md)
+
+##### 01 WeatherPy
+
+- [Python Code](https://github.com/Jen-Dean/all-assignments/blob/master/6%20-%20APIs/WeatherPy/WeatherPy_FINISHED.ipynb)
+- [Output Data](https://github.com/Jen-Dean/all-assignments/tree/master/6%20-%20APIs/WeatherPy/output_data)
+
+##### 02 VacationPy
+
+ - [Python Code](https://github.com/Jen-Dean/all-assignments/blob/master/6%20-%20APIs/VacationPy/VacationPy_FINSIHED.ipynb)
+ - [Output Data](https://github.com/Jen-Dean/all-assignments/tree/master/6%20-%20APIs/VacationPy/output_data)
 
 ### 07 Project 1 Homework
 ---------------
