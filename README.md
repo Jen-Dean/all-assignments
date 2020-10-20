@@ -49,7 +49,7 @@
 ### 06 Python API Homework
 ---------------
 
-- [Read Me](https://github.com/Jen-Dean/all-assignments/blob/master/6%20-%20APIs/README.md)
+- [Homework Read Me](https://github.com/Jen-Dean/all-assignments/blob/master/6%20-%20APIs/README.md)
 
 ##### 01 WeatherPy
 
